@@ -1,10 +1,10 @@
 var pics = [
-"C:Users/Admin/Desktop/qw pics/1.jpg",//0
-"C:Users/Admin/Desktop/qw pics/2.jpg",//1
-"C:Users/Admin/Desktop/qw pics/3.jpg",//2
-"C:Users/Admin/Desktop/qw pics/4.jpg",//3
-"C:Users/Admin/Desktop/qw pics/5.jpg",//4
-"C:Users/Admin/Desktop/qw pics/6.jpg"//5
+"1.jpg",//0
+"2.jpg",//1
+"3.jpg",//2
+"4.jpg",//3
+"5.jpg",//4
+"6.jpg"//5
 ];
 
 var btn=document.querySelector("button");
